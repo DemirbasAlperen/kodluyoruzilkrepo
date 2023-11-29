@@ -22,5 +22,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT](https://choosealicense.com/)
+[MIT](https://choosealicense.com/licenses/mit/)
+
+![Kodluyoruz](https://avatars.githubusercontent.com/u/30476529?s=200&v=4)
 
